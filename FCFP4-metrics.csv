@@ -1,0 +1,7 @@
+method,classifier,accuracy, hloss, zero_one_loss, micro_recall, weighted_recall, micro_precision, weighted_precision, micro_f1, weighted_f1
+BR,RandomForestClassifier,0.12,0.03,0.88,0.12,0.12,0.49,0.44,0.19,0.18
+CC,RandomForestClassifier,0.14,0.03,0.86,0.14,0.14,0.47,0.43,0.21,0.2
+LP,RandomForestClassifier,0.32,0.04,0.68,0.32,0.32,0.32,0.31,0.32,0.31
+BR,LinearSVC,0.15,0.03,0.85,0.18,0.18,0.48,0.46,0.26,0.23
+CC,LinearSVC,0.27,0.04,0.73,0.28,0.28,0.28,0.38,0.28,0.28
+LP,LinearSVC,0.34,0.04,0.66,0.34,0.34,0.34,0.32,0.34,0.33
